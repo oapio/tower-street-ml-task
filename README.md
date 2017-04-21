@@ -2,8 +2,8 @@
 
 ## Introduction
 
-You are given a breach dataset of breached that occurred between years 2012 and 2016.
-This dataset only included breaches of publicly traded companies.
+You are given a dataset of breaches that occurred between years 2012 and 2016.
+This dataset only includes breaches of publicly traded companies.
 Your task is to predict the probability that a company will be breached in 2017.
 
 The dataset is included in this repository ([breach_dataset.tsv](breach_dataset.tsv))
@@ -13,7 +13,7 @@ The dataset is included in this repository ([breach_dataset.tsv](breach_dataset.
 The primary metric for evaluating your predictions will be [logloss](https://www.kaggle.com/wiki/LogLoss).
 However, we also will also consider your overall approach and the methods used.
 
-You can find the overview of the dataset and also how to calculate logloss in the included IPython/Jupyter notebook:
+You can find the overview of the dataset and also how to calculate logloss in the included **IPython/Jupyter** notebook:
 [predicting_breach_probability.ipynb](predicting_breach_probability.ipynb).
 
 # How to submit a solution
