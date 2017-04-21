@@ -24,6 +24,6 @@ Your solution should include:
 * evaluation of your solution
 * approach description and your final score in the readme of your repository
 
-You are free to use any tool or language you like.
+You are free to use any tool or language you like. If you have any questions please drop us an email to mlprague@ceai.io. 
 
 **Deadline: 2nd May 23:59:59 CEST.**
